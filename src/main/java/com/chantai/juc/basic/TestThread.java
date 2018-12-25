@@ -1,4 +1,4 @@
-package com.chantai.juc;
+package com.chantai.juc.basic;
 
 /**
  * @Auther: changtai.zhao
